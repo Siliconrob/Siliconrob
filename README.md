@@ -10,6 +10,14 @@ E-Mail: [me](mailto:siliconrob@siliconheaven.net?subject=Github%20Contact) 📬
 
 Blog: https://siliconheaven.info/ 📙
 
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siliconrob)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Siliconrob&show_icons=true" alt="Siliconrob" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siliconrob&layout=compact&hide=html" alt="Siliconrob" />
+<div/>
+<br />
 
 [![Robin's github trophy](https://github-profile-trophy.vercel.app/?username=Siliconrob&row=1)](https://github.com/Siliconrob/github-profile-trophy)
