@@ -11,12 +11,12 @@ E-Mail: [me](mailto:siliconrob@siliconheaven.net?subject=Github%20Contact) 📬
 Blog: https://siliconheaven.info/ 📙
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Siliconrob&show_icons=true" alt="Siliconrob" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Siliconrob&show_icons=true" alt="Siliconrob" />
 <div/>
 <br />
   
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siliconrob&layout=compact&hide=html" alt="Siliconrob" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Siliconrob&layout=compact&hide=html" alt="Siliconrob" />
 <div/>
 <br />
 
