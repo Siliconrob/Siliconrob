@@ -20,4 +20,4 @@ Blog: https://siliconheaven.info/ 📙
 <div/>
 <br />
 
-[![Robin's github trophy](https://github-profile-trophy.vercel.app/?username=Siliconrob&row=1)](https://github.com/Siliconrob/github-profile-trophy)
+[![Robin's github trophy](https://trophy.ryglcloud.net/?username=Siliconrob&row=1)](https://github.com/Siliconrob/github-profile-trophy)
